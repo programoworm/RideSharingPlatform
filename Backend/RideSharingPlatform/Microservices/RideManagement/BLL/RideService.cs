@@ -1,6 +1,4 @@
 ﻿using AutoMapper;
-using RideSharingPlatform.Context;
-using RideSharingPlatform.Microservices.RideManagement.DAL;
 using RideSharingPlatform.Microservices.RideManagement.DAL.Interfaces;
 using RideSharingPlatform.Microservices.RideManagement.Models;
 using RideSharingPlatform.Microservices.RideManagement.Models.DTOs;

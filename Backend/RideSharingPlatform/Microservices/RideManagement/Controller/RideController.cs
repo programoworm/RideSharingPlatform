@@ -1,10 +1,7 @@
 ﻿using AutoMapper;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using RideSharingPlatform.Context;
 using RideSharingPlatform.Microservices.RideManagement.BLL;
 using RideSharingPlatform.Microservices.RideManagement.DAL.Interfaces;
-using RideSharingPlatform.Microservices.RideManagement.Models;
 using RideSharingPlatform.Microservices.RideManagement.Models.DTOs;
 
 namespace RideSharingPlatform.Microservices.RideManagement.Controller
